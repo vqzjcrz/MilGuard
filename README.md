@@ -30,7 +30,6 @@ MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS 
 :: On Instinct models, battery sits in the corner window and GPS quality shows as text
 
 
-=========================================
 Built by a Soldier, for anyone who navigates by grid.
 =========================================
 
