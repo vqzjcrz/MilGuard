@@ -1,3 +1,4 @@
+![MilGuard](milguard_hero_1440x720.png)
 MILGUARD // MILITARY LAND NAV AT A GLANCE
 =========================================
 
