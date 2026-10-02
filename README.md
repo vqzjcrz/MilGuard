@@ -59,3 +59,7 @@ MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS 
     <td colspan="4" align="center"><sub>Top: acquiring GPS. Bottom: GPS lock with live MGRS grid.</sub></td>
   </tr>
 </table>
+
+## License
+
+MilGuard is released under the [MIT License](LICENSE).
