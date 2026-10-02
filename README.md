@@ -20,7 +20,7 @@ MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS 
 - Local time and Zulu time side by side
 - Julian date
 - Battery level
-- GPS quality by color: green = good fix, yellow = usable
+- GPS quality by color: green = good fix, yellow = usable, red = no GPS
 
 ### Built for the Field
 
