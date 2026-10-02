@@ -1,0 +1,13 @@
+# Build output
+bin/
+SIDELOAD_IQ/
+*.iq
+*.prg
+
+# Signing keys - never commit these
+developer_key*
+*.der
+*.pem
+
+# Local editor settings
+.vscode/settings.json
