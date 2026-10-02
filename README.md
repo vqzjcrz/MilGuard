@@ -1,41 +1,35 @@
-![MilGuard](milguard_hero_1440x720.png)
-MILGUARD // MILITARY LAND NAV AT A GLANCE
-=========================================
+## MilGuard: Military Land Nav at a Glance
 
-Your grid. Your azimuth. Your time.
+**Your grid. Your azimuth. Your time.**\
 One screen. No menus. No scrolling.
-
-   15S UD 43851 02282  |  AZ 042  |  1410Z
 
 MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS lock, and read your position the way you'd call it in.
 
-</br>
-[+] WHAT YOU GET
------------------------------------------
-:: 10-digit MGRS grid (1-meter precision)
-:: Grid zone and 100km square up top
-:: Live azimuth from your watch's compass
-:: Altitude
-:: Local time and Zulu time side by side
-:: Julian date
-:: Battery level
-:: GPS quality by color: green = good fix, yellow = usable
+### What You Get
 
-</br>
-[+] BUILT FOR THE FIELD
------------------------------------------
-:: Muted tactical colors that won't light you up at night
-:: High-contrast text, readable in direct sun on MIP screens
-:: Layout adapts to your watch: Fenix, Epix, Instinct, Forerunner, Venu and more
-:: On Instinct models, battery sits in the corner window and GPS quality shows as text
+- 10-digit MGRS grid (1-meter precision)
+- Grid zone and 100km square up top
+- Live azimuth from your watch's compass
+- Altitude
+- Local time and Zulu time side by side
+- Julian date
+- Battery level
+- GPS quality by color: green = good fix, yellow = usable
 
-</br>
-Built by a Soldier, for anyone who navigates by grid.
-=========================================
+### Built for the Field
 
+- Muted tactical colors that won't light you up at night
+- High-contrast text, readable in direct sun on MIP screens
+- Layout adapts to your watch: Fenix, Epix, Instinct, Forerunner, Venu and more
+- On Instinct models, battery sits in the corner window and GPS quality shows as text
 
-NOTE: Accuracy depends on your watch's GPS and compass calibration. Always confirm critical positions with a map and compass. MilGuard is not affiliated with or endorsed by the U.S. Army or Department of Defense.
-</br>
+---
+
+*Built by a Soldier, for anyone who navigates by grid.*
+
+> **Note:** Accuracy depends on your watch's GPS and compass calibration. Always confirm critical positions with a map and compass. MilGuard is not affiliated with or endorsed by the U.S. Army or Department of Defense.
+>
+> 
 <table>
   <tr>
     <th align="center">Fenix 8</th>
