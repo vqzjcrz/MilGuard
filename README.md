@@ -2,11 +2,6 @@
   <img src="milguard_hero_1440x720.png" alt="MilGuard - Military land nav at a glance" width="100%">
 </p>
 
-<p align="center">
-  <b>Your grid. Your azimuth. Your time.</b><br>
-  A Garmin Connect IQ app for military land navigation.
-</p>
-
 ---
 
 ## MilGuard: Military Land Nav at a Glance
