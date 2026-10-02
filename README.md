@@ -35,3 +35,27 @@ Built by a Soldier, for anyone who navigates by grid.
 
 
 NOTE: Accuracy depends on your watch's GPS and compass calibration. Always confirm critical positions with a map and compass. MilGuard is not affiliated with or endorsed by the U.S. Army or Department of Defense.
+
+<table>
+  <tr>
+    <th align="center">Fenix 8</th>
+    <th align="center">Venu Sq</th>
+    <th align="center">Forerunner 55</th>
+    <th align="center">Instinct 2</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Previews/Fenix_GPS.png" alt="Fenix 8 waiting for GPS" width="180"></td>
+    <td align="center"><img src="Previews/Venu_Sq_GPS.png" alt="Venu Sq waiting for GPS" width="180"></td>
+    <td align="center"><img src="Previews/Forerunner_GPS.png" alt="Forerunner 55 waiting for GPS" width="180"></td>
+    <td align="center"><img src="Previews/Instinct_GPS.png" alt="Instinct 2 waiting for GPS" width="180"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Previews/Fenix_NO-GPS.png" alt="Fenix 8 with GPS fix" width="180"></td>
+    <td align="center"><img src="Previews/Venu_Sq_NO-GPS.png" alt="Venu Sq with GPS fix" width="180"></td>
+    <td align="center"><img src="Previews/Forerunner_NO-GPS.png" alt="Forerunner 55 with GPS fix" width="180"></td>
+    <td align="center"><img src="Previews/Instinct_NO-GPS.png" alt="Instinct 2 with GPS fix" width="180"></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center"><sub>Top: acquiring GPS. Bottom: GPS lock with live MGRS grid.</sub></td>
+  </tr>
+</table>
