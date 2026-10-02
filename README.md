@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="milguard_hero_1440x720.png" alt="MilGuard - Military land nav at a glance" width="100%">
+  <img src="Previews/Hero-Banner.png" alt="MilGuard - Military land nav at a glance" width="100%">
 </p>
 
 ---
