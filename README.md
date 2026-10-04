@@ -57,7 +57,8 @@ Scroll with the up/down buttons (or swipe) to page from the main screen through 
        <td colspan="4" align="center"><sub>Main screen, 9-Line MEDEVAC, SALUTE and LACE.</sub></td>
      </tr>
    </table>
-## 
+   
+## Previous Version
 
 Looking for the original single-screen version? See the v1.0.1 branch.
 
