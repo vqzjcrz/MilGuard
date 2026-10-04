@@ -61,5 +61,6 @@ Scroll with the up/down buttons (or swipe) to page from the main screen through 
 ## License
 
 MilGuard is released under the [MIT License](LICENSE).
+## 
 
 Looking for the original single-screen version? See the v1.0.1 branch.
