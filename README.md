@@ -1,3 +1,5 @@
+ <!-- markdownlint-disable MD033 MD041 -->
+
 <p align="center">
   <img src="Previews/Hero-Banner.png" alt="MilGuard - Military land nav at a glance" width="100%">
 </p>
@@ -22,6 +24,14 @@ MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS 
 - Battery level
 - GPS quality by color: green = good fix, yellow = usable, red = no GPS
 
+### Report Formats
+
+Scroll with the up/down buttons (or swipe) to page from the main screen through three reference cards, one per screen:
+
+- 9-Line MEDEVAC
+- SALUTE
+- LACE
+
 ### Built for the Field
 
 - Muted tactical colors that won't light you up at night
@@ -35,30 +45,18 @@ MilGuard turns your Garmin into a field-ready land nav tool. Open it, get a GPS 
 
 > **Note:** Accuracy depends on your watch's GPS and compass calibration. Always confirm critical positions with a map and compass. MilGuard is not affiliated with or endorsed by the U.S. Army or Department of Defense.
 >
-> 
-<table>
-  <tr>
-    <th align="center">Fenix 8</th>
-    <th align="center">Venu Sq</th>
-    <th align="center">Forerunner 55</th>
-    <th align="center">Instinct 2</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="Previews/Fenix_GPS.png" alt="Fenix 8 waiting for GPS" width="180"></td>
-    <td align="center"><img src="Previews/Venu_Sq_GPS.png" alt="Venu Sq waiting for GPS" width="180"></td>
-    <td align="center"><img src="Previews/Forerunner_GPS.png" alt="Forerunner 55 waiting for GPS" width="180"></td>
-    <td align="center"><img src="Previews/Instinct_GPS.png" alt="Instinct 2 waiting for GPS" width="180"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="Previews/Fenix_NO-GPS.png" alt="Fenix 8 with GPS fix" width="180"></td>
-    <td align="center"><img src="Previews/Venu_Sq_NO-GPS.png" alt="Venu Sq with GPS fix" width="180"></td>
-    <td align="center"><img src="Previews/Forerunner_NO-GPS.png" alt="Forerunner 55 with GPS fix" width="180"></td>
-    <td align="center"><img src="Previews/Instinct_NO-GPS.png" alt="Instinct 2 with GPS fix" width="180"></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center"><sub>Top: acquiring GPS. Bottom: GPS lock with live MGRS grid.</sub></td>
-  </tr>
-</table>
+>
+   <table>
+     <tr>
+       <td align="center"><img src="Previews/screen1.png" alt="Main screen" width="180"></td>
+       <td align="center"><img src="Previews/screen2.png" alt="9-Line MEDEVAC" width="180"></td>
+       <td align="center"><img src="Previews/screen3.png" alt="SALUTE" width="180"></td>
+       <td align="center"><img src="Previews/screen4.png" alt="LACE" width="180"></td>
+     </tr>
+     <tr>
+       <td colspan="4" align="center"><sub>Main screen, 9-Line MEDEVAC, SALUTE and LACE.</sub></td>
+     </tr>
+   </table>
 
 ## License
 
