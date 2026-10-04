@@ -1,7 +1,7 @@
  <!-- markdownlint-disable MD033 MD041 -->
 
 <p align="center">
-  <img src="Previews/Hero-Banner.png" alt="MilGuard - Military land nav at a glance" width="100%">
+  <img src="Previews/milguard_hero_A_callouts.png">
 </p>
 
 ---
